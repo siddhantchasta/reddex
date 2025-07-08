@@ -1,4 +1,12 @@
 # 🔴 Reddex — AI-Powered Social Platform
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Sanity CMS](https://img.shields.io/badge/CMS-Sanity.io-ff4747?style=flat-square&logo=sanity)](https://www.sanity.io/)
+[![OpenAI](https://img.shields.io/badge/AI-OpenAI-00a67f?style=flat-square&logo=openai)](https://openai.com/)
+[![Clerk](https://img.shields.io/badge/Auth-Clerk-24292f?style=flat-square&logo=clerk&logoColor=white)](https://clerk.com/)
+[![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
+
 Reddex is a full-stack, modern social platform built with Next.js 15, Sanity CMS, and OpenAI-powered moderation tools. It empowers users to create, manage, and engage in communities — all with blazing-fast performance and intelligent, automated content moderation.
 
 ## 🚀 Features
