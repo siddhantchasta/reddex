@@ -18,6 +18,7 @@ export async function searchSubreddits(searchTerm: string) {
     createdAt
   } | order(createdAt desc)`);
 
+  
   const results = await sanityFetch({
     query: searchSubredditsQuery,
     params: { searchTerm: searchTerm.toLowerCase() },
